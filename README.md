@@ -4,9 +4,9 @@ A clean and simple portfolio template built using React, if want a template buil
 
 ## Preview
 
-[![Imgur](https://i.ibb.co/9T8Q2pY/Screenshot-2022-07-26-152557.png)](https://github.com/rendisagala/portfolio-web)
+[![Imgur](https://i.ibb.co/9T8Q2pY/Screenshot-2022-07-26-152557.png)](https://rendisagala.vercel.app/)
 
-[See Live](https://github.com/rendisagala/portfolio-web)
+[See Live](https://rendisagala.vercel.app/)
 
 ## Instructions
 
@@ -50,7 +50,7 @@ yarn start
 
 - Go to `package.json` file and replace -
 
-`"homepage": "https://rendisagala.github.io/portfolio-web"`
+`"homepage": "."`
 
 with `"homepage": "https://yourusername.github.io"`.
 
