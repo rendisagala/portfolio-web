@@ -57,7 +57,7 @@ const projects = [
     name: 'Old Portfolio Website',
     description:
       'My portfolio website, like any other portfolio website, this website provides my professional information about me which is include my resume; my work; something about me; my contact; etc. ',
-    stack: ['NodeJS', 'Express', 'MongoDB', 'React'],
+    stack: ['JavaScript', 'HTML', 'CSS'],
     sourceCode: 'https://github.com/rendisagala/rendisagala19',
     livePreview: 'https://rendisagala19.vercel.app/',
   },
