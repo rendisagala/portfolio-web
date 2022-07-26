@@ -1,5 +1,5 @@
 const header = {
-  homepage: 'https://github.com/rendisagala/portfolio-web',
+  homepage: 'https://github.com/rendisagala',
   title: 'RAS.',
 }
 
