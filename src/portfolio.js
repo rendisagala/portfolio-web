@@ -1,11 +1,9 @@
 const header = {
-  // all the properties are optional - can be left empty or deleted
   homepage: 'https://github.com/rendisagala/portfolio-web',
   title: 'RAS.',
 }
 
 const about = {
-  // all the properties are optional - can be left empty or deleted
   name: 'Rendi Anjuma Sagala',
   role: 'Full Stack Developer',
   description:
@@ -19,13 +17,11 @@ const about = {
 }
 
 const projects = [
-  // projects can be added an removed
-  // if there are no projects, Projects section won't show up
   {
     name: 'Hotel Geeks API',
     description:
       'An API that provide hotels data free to use made by @rendisagala. This API provide more than 50 hotels with each special details like facilites, stars, nearby places, and details that related to hotels data.',
-    stack: ['NodeJS', 'Express', 'Express'],
+    stack: ['NodeJS', 'Express', 'MongoDB'],
     sourceCode: 'https://github.com/rendisagala/hotel-geeks',
     livePreview: 'https://github.com/rendisagala/hotel-geeks',
   },
@@ -64,22 +60,18 @@ const projects = [
 ]
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
-
   'NodeJS',
   'Express',
   'MongoDB',
   'MySQL',
   'React',
-  'JavaScript',
   'Git',
   'HTML',
   'CSS',
+  'JavaScript',
 ]
 
 const contact = {
-  // email is optional - if left empty Contact section won't show up
   email: 'rendisagala19@gmail.com',
 }
 
