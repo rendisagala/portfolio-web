@@ -45,7 +45,7 @@ const projects = [
     name: 'TaskHelper App',
     description:
       'TaskHelper is a website that will help you manage list of the tasks that you have to do, or things that you want to do. TaskHelper is provided with a login system that will secure and keep your data save.',
-    stack: ['NodeJS', 'Express', 'MongoDB', 'React'],
+    stack: ['NodeJS', 'Express', 'MongoDB', 'EJS'],
     sourceCode: 'https://github.com/rendisagala/TaskHelper-App',
     livePreview: 'https://taskhelper-app.herokuapp.com',
   },
