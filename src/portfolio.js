@@ -22,6 +22,14 @@ const projects = [
     description:
       'An API that provide hotels data free to use made by @rendisagala. This API provide more than 50 hotels with each special details like facilites, stars, nearby places, and details that related to hotels data.',
     stack: ['NodeJS', 'Express', 'MongoDB'],
+    sourceCode: 'https://github.com/rendisagala/ArenaSports',
+    livePreview: 'https://arenasports.vercel.app',
+  },
+  {
+    name: 'ArenaSports',
+    description:
+      'ArenaSports is a website that provides you all the information you need about football. Football Teams, Scores, Stats, News, Fixtures, Results, Tables. All you need about your favorite league is here. Enhance your football knowledge by digging through ArenaSports App.',
+    stack: ['ReactJS, Axios, Bootstrap'],
     sourceCode: 'https://github.com/rendisagala/hotel-geeks',
     livePreview: 'https://github.com/rendisagala/hotel-geeks',
   },
