@@ -21,7 +21,7 @@ const projects = [
     name: 'ArenaSports',
     description:
       'ArenaSports is a website that provides you all the information you need about football. Football Teams, Scores, Stats, News, Fixtures, Results, Tables. All you need about your favorite league is here. Enhance your football knowledge by digging through ArenaSports App.',
-    stack: ['React, Axios, Bootstrap'],
+    stack: ['React', 'Axios', 'Bootstrap'],
     sourceCode: 'https://github.com/rendisagala/hotel-geeks',
     livePreview: 'https://github.com/rendisagala/hotel-geeks',
   },
