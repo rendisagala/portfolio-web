@@ -1,6 +1,5 @@
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
-import InstagramIcon from '@material-ui/icons/Instagram'
 import { about } from '../../portfolio'
 import './About.css'
 
@@ -20,7 +19,7 @@ const About = () => {
 
       <div className='about__contact center'>
         {resume && (
-          <a href={resume}>
+          <a href={resume} target='_blank' rel='noreferrer'>
             <span type='button' className='btn btn--outline'>
               Resume
             </span>
@@ -50,18 +49,6 @@ const About = () => {
                 rel='noreferrer'
               >
                 <LinkedInIcon />
-              </a>
-            )}
-
-            {social.instagram && (
-              <a
-                href={social.instagram}
-                aria-label='instagram'
-                className='link link--icon'
-                target='_blank'
-                rel='noreferrer'
-              >
-                <InstagramIcon />
               </a>
             )}
           </>
