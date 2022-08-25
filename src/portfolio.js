@@ -9,7 +9,7 @@ const about = {
   description:
     'Hi👋, i am Rendi Anjuma Sagala. I am a self-motivated developer from West Borneo, Indonesia. Currently, i am learning JavaScript FullStack. I love to learn new things. Please check out my work below.',
   resume:
-    'https://drive.google.com/file/d/1apr8sEc069284PVW7bWFOxnrlRLA-dO0/view?usp=sharing',
+    'https://drive.google.com/file/d/1Nakd-ZOxTEVnCju1DvGpG35UbXCGcNSr/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/rendisagala/',
     github: 'https://github.com/rendisagala',
