@@ -18,6 +18,14 @@ const about = {
 
 const projects = [
   {
+    name: 'ReachMe',
+    description:
+      'ReachMe is a social media app that connects people from any place in one app. User can post what they want in ReachMe App. Each user can check other user profile like profile picture, name, email, posts, etc. You will be needed to register your account to using ReachMe App and after that, Enjoy The App!',
+    stack: ['MongoDB', 'ExpressJS', 'ReactJS', 'NodeJS'],
+    sourceCode: 'https://github.com/rendisagala/ReachMe',
+    livePreview: 'https://reachmeapps.herokuapp.com',
+  },
+  {
     name: 'ArenaSports',
     description:
       'ArenaSports is a website that provides you all the information you need about football. Football Teams, Scores, Stats, News, Fixtures, Results, Tables. All you need about your favorite league is here. Enhance your football knowledge by digging through ArenaSports App.',
