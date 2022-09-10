@@ -23,7 +23,7 @@ const projects = [
       'ReachMe is a social media app that connects people from any place in one app. User can post what they want in ReachMe App. Each user can check other user profile like profile picture, name, email, posts, etc. You will be needed to register your account to using ReachMe App and after that, Enjoy The App!',
     stack: ['MongoDB', 'ExpressJS', 'ReactJS', 'NodeJS'],
     sourceCode: 'https://github.com/rendisagala/ReachMe',
-    livePreview: 'https://reachmeapps.herokuapp.com',
+    livePreview: 'https://reachme.vercel.app',
   },
   {
     name: 'ArenaSports',
