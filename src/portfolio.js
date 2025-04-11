@@ -18,6 +18,41 @@ const about = {
 
 const projects = [
   {
+    name: 'Printoj API',
+    description: `Printoj is an innovative digital printing company based in Pristina, Kosovo, offering both B2B and B2C services. They specialize in print-on-demand products, allowing customers to design and order customized items through their online platform.
+- Designed and developed scalable RESTful APIs using Node.js, Express.js, and TypeScript for a custom print-on-demand platform.
+- Utilized Prisma ORM to efficiently manage relational data models and handle complex queries in a PostgreSQL database.
+- Implemented error handling middleware, request validation, and clean architecture practices for maintainable code.
+- Collaborated with the frontend team to define API contracts and support a seamless user experience.`,
+    stack: ['Node.js', 'Express.js', 'TypeScript', 'Prisma', 'PostgreSQL'],
+    livePreview: 'https://printoj.com/',
+  },
+  {
+    name: 'Listub API',
+    description: `Listub is a productivity app that helps you organize your daily life by combining task management and plan sharing in one simple, efficient platform.
+- Developed robust RESTful APIs using Node.js, Express.js, and TypeScript to support core functionalities such as task creation, scheduling, and collaboration.
+- Designed and implemented MongoDB schemas for scalable data modeling, ensuring smooth handling of tasks, user data, and shared plans.
+- Optimized API performance through query indexing, middleware abstraction, and modular architecture.`,
+    stack: ['Node.js', 'Express.js', 'TypeScript', 'MongoDB'],
+    livePreview: 'https://listub.app/',
+  },
+  {
+    name: 'Tedera API',
+    description: `Tedera is an upcoming delivery platform developed by Tedera L.L.C., based in Pristina, Kosovo, and set to launch in 2025. It allows users to order deliveries and register/manage their own stores, offering a dual experience for customers and business owners.
+- Designed and developed the backend API using TypeScript, Node.js, and Express.js to handle core delivery and store management functionalities.
+- Integrated MongoDB for scalable NoSQL data modeling and efficient data operations.
+- Implemented modular architecture and middleware for error handling, authentication, and request validation to ensure clean and maintainable code.`,
+    stack: [
+      'TypeScript',
+      'Node.js',
+      'Express.js',
+      'MongoDB',
+      'AWS',
+      'Firebase',
+    ],
+    livePreview: 'https://tedera.app/',
+  },
+  {
     name: 'ReachMe',
     description:
       'ReachMe is a social media app that connects people from any place in one app. User can post what they want in ReachMe App. Each user can check other user profile like profile picture, name, email, posts, etc. You will be needed to register your account to using ReachMe App and after that, Enjoy The App!',
